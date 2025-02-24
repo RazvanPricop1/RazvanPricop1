@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Razvan!
 
 ### 🚀 QA Engineer | iOS Developer | CI/CD Enthusiast
 
